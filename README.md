@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-###### [Español](lang/README-sp.md) | [Italiano](lang/README-sp.md)
+###### [Español](lang/README-sp.md) | [Italiano](lang/README-it.md)
 
 I am Valeria, and this is my GitHub profile, you can tell me Vale (she/her).
 
