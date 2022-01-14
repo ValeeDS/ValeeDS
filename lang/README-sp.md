@@ -1,5 +1,5 @@
 ### Hola 👋🏻
-###### [English](./README.md) | [Italiano](lang/README-it.md)
+###### [English](./README.md) | [Italiano](README-it.md)
 
 Soy Valeria, y este es mi perfil de GitHub, podés decirme Vale.
 
