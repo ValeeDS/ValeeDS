@@ -12,6 +12,7 @@ In my freetime, I like to learn about web development and programming 👩🏻�
 - [x] HTML
 - [x] CSS
 - [ ] JavaScript
+- [ ] React
 - [ ] Backend
 
 Below I will leave all the links to the final projects for you to be able to take a look to them (be aware that all of them are in Spanish)
