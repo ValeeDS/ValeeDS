@@ -7,10 +7,11 @@ Soy de Buenos Aires, Argentina, soy estudiante de Ingeniería Biomédica 👩�
 
 En mi tiempo libre, me gusta aprender sobre desarrollo web y programación 👩🏻‍💻. 
 
-🌱 Actualmente estoy aprendiendo JavaScript en CoderHouse. Ya terminé los cursos de:
+🌱 Actualmente estoy aprendiendo Python y JavaScript en CoderHouse. Ya terminé los cursos de:
 - [x] WordPress
 - [x] HTML
 - [x] CSS
+- [ ] Pyhton
 - [ ] JavaScript
 - [ ] React
 - [ ] Backend
