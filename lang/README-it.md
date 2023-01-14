@@ -11,6 +11,7 @@ Nel mio tempo libero, mi piace imparare su Web Development e programmazione 👩
 - [x] WordPress
 - [x] HTML
 - [x] CSS
+- [ ] Pyhton
 - [ ] JavaScript
 - [ ] React
 - [ ] Backend
