@@ -7,7 +7,7 @@ Sono da Buenos Aires, Argentina, sono studente d'Ingegneria Biomedica 👩🏻�
 
 Nel mio tempo libero, mi piace imparare su Web Development e programmazione 👩🏻‍💻. 
 
-🌱 Attualmente sto imparando JavaScript a CoderHouse. Ho già finito i corsi di:
+🌱 Attualmente sto imparando Python e JavaScript a CoderHouse. Ho già finito i corsi di:
 - [x] WordPress
 - [x] HTML
 - [x] CSS
