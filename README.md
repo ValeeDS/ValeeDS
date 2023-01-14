@@ -7,10 +7,11 @@ I'm from Buenos Aires, Argentina, I'm a Biomedical Engineering student 👩🏻�
 
 In my freetime, I like to learn about web development and programming 👩🏻‍💻. 
 
-🌱 I’m currently learning JavaScript at CoderHouse. I already finished the courses:
+🌱 I’m currently learning Python and JavaScript at CoderHouse. I already finished the courses:
 - [x] WordPress
 - [x] HTML
 - [x] CSS
+- [ ] Python
 - [ ] JavaScript
 - [ ] React
 - [ ] Backend
